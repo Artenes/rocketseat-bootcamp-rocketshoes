@@ -2,10 +2,10 @@
 
 <div style="display: flex;">
   <a href="http://artenesbok.com/rocketseat-bootcamp-rocketshoes/" style="margin-right: 10px;">
-    <img src="images/screen01.png" alt="Managing repositories"/>
+    <img src="images/screen01.png" alt="Browsing shoes"/>
   </a>
   <a href="http://artenesbok.com/rocketseat-bootcamp-rocketshoes/">
-    <img src="images/screen02.png" alt="Repository details and issues"/>
+    <img src="images/screen02.png" alt="Cart page"/>
   </a>
 </div>
 
@@ -13,7 +13,13 @@
 
 # About
 
-A ReactJS app that uses `Redux` to manage the state of a shopping cart in multiple components.
+A ReactJS app that uses `Redux` and `Redux Sagar` to manage the state of a shopping cart in multiple components.
+
+In this app you can:
+- Browse items
+- Add items to cart
+- Change the amount of each item in the cart
+- Remove items from cart
 
 # Set up
 
@@ -28,12 +34,18 @@ cd rocketseat-bootcamp-rocketshoes
 yarn
 ```
 
-3. Run the app
+3. Install `json-server` globally, it serves fake data for the app.
+```sh
+yarn global add json-server
+json-server src/server.json -p 3333
+```
+
+4. Run the app
 ```sh
 yarn dev
 ```
 
-4. Access [http://localhost:8080](http://localhost:8080).
+5. Access [http://localhost:8080](http://localhost:8080).
 
 # Contact
 
