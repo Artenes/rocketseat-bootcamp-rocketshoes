@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "953e5a667165409f1d9d484c347115bb",
+    "revision": "081bcf1cc32e180dfe28a110698ced6b",
     "url": "/rocketseat-bootcamp-rocketshoes/index.html"
   },
   {
-    "revision": "34e93d0baad26f138351",
+    "revision": "420af0fcd376764c1e74",
     "url": "/rocketseat-bootcamp-rocketshoes/static/css/2.39017165.chunk.css"
   },
   {
-    "revision": "34e93d0baad26f138351",
-    "url": "/rocketseat-bootcamp-rocketshoes/static/js/2.edf7e1d9.chunk.js"
+    "revision": "420af0fcd376764c1e74",
+    "url": "/rocketseat-bootcamp-rocketshoes/static/js/2.ae7f7a62.chunk.js"
   },
   {
-    "revision": "29f285ced390f1842d8a",
-    "url": "/rocketseat-bootcamp-rocketshoes/static/js/main.59e70070.chunk.js"
+    "revision": "c684c00a5971116ba0be",
+    "url": "/rocketseat-bootcamp-rocketshoes/static/js/main.a36b42cd.chunk.js"
   },
   {
     "revision": "60e176c466e509d27bce",
