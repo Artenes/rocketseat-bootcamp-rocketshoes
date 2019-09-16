@@ -76,8 +76,6 @@ function Cart({ cart, total, removeFromCart, updateAmountRequest }) {
       </ProductTable>
 
       <footer>
-        <button type="button">Finish order</button>
-
         <Total>
           <span>Total</span>
           <strong>{total}</strong>
